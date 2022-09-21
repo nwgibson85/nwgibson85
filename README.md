@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nwgibson85
 - 👀 I’m interested in transitioning from a career in Nursing to computer programing. 
 - 🌱 I’m currently learning Javascript and React.js
-- 💞️ I’m looking to collaborate on literally anything, but specifically applications that provide quality of life improvements for medical professionals.
+- 💞️ I’m looking to collaborate on literally anything. More specifically I would really like to work on applications that provide quality of life improvements for medical professionals, or help with sustainability.
 - 📫 How to reach me - nwgibson85@gmail.com
 
 <!---
